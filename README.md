@@ -46,4 +46,4 @@ The disclosures were published by the organization, but I provide the public iss
 ---
 
 > _This repository aims to document my public technical contributions and security research work._  
-> _ Sébastien, 2025 — MIT License _
+> _Sébastien, 2025_
